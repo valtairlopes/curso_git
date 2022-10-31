@@ -1,1 +1,3 @@
 texto dentro arquivo 10 para teste...
+
+Este he um novo texto inserindo dentro do arquivo 10..
